@@ -1,2 +1,2 @@
 # hello-world
-just a test
+I write this up to tell myself to study hard!
